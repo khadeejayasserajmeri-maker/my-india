@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-labelledby="title">
+  <title id="title">Indian festival in the evening</title>
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1">
+      <stop stop-color="#d96f52"/>
+      <stop offset="1" stop-color="#9f4050"/>
+    </linearGradient>
+    <linearGradient id="ground" x2="0" y2="1">
+      <stop stop-color="#945145"/>
+      <stop offset="1" stop-color="#472e3a"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="600" fill="url(#bg)"/>
+  <circle cx="694" cy="152" r="78" fill="#f6cf8d" opacity=".8"/>
+  <path d="M0 395h900v205H0z" fill="url(#ground)"/>
+  <g stroke="#f7ce84" stroke-width="2" opacity=".8">
+    <path d="M0 80h900M0 105h900"/>
+    <path d="M62 80v78m100-78v78m100-78v78m100-78v78m100-78v78m100-78v78m100-78v78m100-78v78"/>
+  </g>
+  <g fill="#ffe4a9">
+    <path d="M48 139c-13 17-13 29 0 40 13-11 13-23 0-40zm100 0c-13 17-13 29 0 40 13-11 13-23 0-40zm100 0c-13 17-13 29 0 40 13-11 13-23 0-40zm100 0c-13 17-13 29 0 40 13-11 13-23 0-40zm100 0c-13 17-13 29 0 40 13-11 13-23 0-40zm100 0c-13 17-13 29 0 40 13-11 13-23 0-40zm100 0c-13 17-13 29 0 40 13-11 13-23 0-40zm100 0c-13 17-13 29 0 40 13-11 13-23 0-40z"/>
+  </g>
+  <g opacity=".22" fill="#f4a36d">
+    <circle cx="135" cy="240" r="3"/><circle cx="220" cy="194" r="4"/><circle cx="335" cy="247" r="3"/><circle cx="520" cy="210" r="4"/><circle cx="790" cy="240" r="3"/><circle cx="610" cy="297" r="3"/>
+  </g>
+  <g transform="translate(0 10)">
+    <g fill="#252b31">
+      <path d="M175 416c3-51 22-93 60-128 31 28 47 73 43 128z"/>
+      <path d="M145 419c4 56 33 105 78 105s74-49 78-105z"/>
+      <path d="M357 398c6-48 25-81 57-105 27 23 43 60 43 105z"/>
+      <path d="M324 404c4 61 33 107 90 107s85-46 90-107z"/>
+      <path d="M575 420c4-54 25-96 61-126 30 28 48 70 45 126z"/>
+      <path d="M544 421c4 54 33 101 81 101s77-47 81-101z"/>
+    </g>
+    <g fill="#e9a04f">
+      <path d="M235 288l-41 37 43 18 40-22zM413 293l-35 34 37 17 38-20zM634 299l-39 35 41 16 37-20z"/>
+      <path d="M191 416h116v10H191zM373 396h93v10h-93zM593 418h112v10H593z"/>
+    </g>
+    <g fill="#d75d4d">
+      <path d="M204 344c24 15 43 17 64 1v16c-21 15-43 13-66-1z"/>
+      <path d="M382 347c21 13 42 14 67 0v16c-24 14-46 13-69-1z"/>
+      <path d="M599 354c23 14 45 14 68 0v16c-23 15-45 14-69 0z"/>
+    </g>
+    <g fill="#e9b763">
+      <path d="M191 526h34l-15 52h-28zM259 526h34l13 52h-28zM373 509h34l-10 69h-29zM431 509h34l15 69h-29zM594 522h34l-14 56h-28zM661 522h34l14 56h-28z"/>
+      <path d="M210 278l20-30 22 31zM396 282l19-30 21 31zM609 291l25-34 22 35z"/>
+    </g>
+    <g stroke="#252b31" stroke-width="9" stroke-linecap="round">
+      <path d="M222 359l-52 38m100-43 54 33m-115 18-57 22m184-5 37-51"/>
+      <path d="M397 367l-44-42m92 35 52-37m-117 74-43 34m153-7 38-29"/>
+      <path d="M615 367l-55-32m106 24 54-33m-127 84-48 24m164-7 37-35"/>
+    </g>
+  </g>
+  <g fill="#f4c979">
+    <path d="M58 526c-13 18-13 30 0 42 13-12 13-24 0-42zm80 8c-11 15-11 25 0 35 11-10 11-20 0-35zm624-6c-13 18-13 30 0 42 13-12 13-24 0-42zm83 3c-11 16-11 26 0 36 11-10 11-20 0-36z"/>
+  </g>
+</svg>

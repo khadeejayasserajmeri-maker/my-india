@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-labelledby="title desc">
+  <title id="title">The Himalayas at dawn</title>
+  <desc id="desc">Snowy Himalayan peaks glow at sunrise above a turquoise lake and pine forest.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1">
+      <stop stop-color="#d9c7aa"/>
+      <stop offset=".58" stop-color="#f0d7b5"/>
+      <stop offset="1" stop-color="#a9c1b3"/>
+    </linearGradient>
+    <linearGradient id="lake" x2="0" y2="1">
+      <stop stop-color="#819f96"/>
+      <stop offset="1" stop-color="#476a67"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="700" fill="url(#sky)"/>
+  <circle cx="650" cy="160" r="60" fill="#f9e5ba" opacity=".82"/>
+  <path d="M0 390 125 241l83 90 143-214 126 185 112-147 165 203 89-88 57 75v153H0z" fill="#6d827f"/>
+  <path d="m351 117-57 86 47-13 23 36 21-52 37 5zM589 155l-51 81 48-13 23 40 23-47 42 9z" fill="#f2e8d6"/>
+  <path d="m0 432 162-124 95 83 120-119 102 130 142-153 154 151 89-91 36 38v163H0z" fill="#536f69"/>
+  <path d="M0 467h900v233H0z" fill="url(#lake)"/>
+  <path d="M0 487c118 8 208 13 330 1s259-15 390-3 111 12 180 4" fill="none" stroke="#d3d1b8" stroke-width="3" opacity=".4"/>
+  <path d="M0 527c157-9 246 14 389 5 121-7 215-18 319-6 86 10 123 11 192 6" fill="none" stroke="#d3d1b8" stroke-width="2" opacity=".27"/>
+  <path d="M0 610c166-20 287-7 415 4 186 17 295-25 485-9v95H0z" fill="#344f4c"/>
+  <g fill="#344f4c">
+    <path d="M0 482h33l-17-85zM-3 513h40l-20-69zM59 488h30l-15-75zM76 528h38l-19-68zM125 483h35l-18-90zM155 524h40l-20-75z"/>
+    <path d="M725 482h38l-19-91zM756 520h42l-21-76zM807 486h35l-18-86zM845 525h42l-21-78zM878 490h36l-18-92z"/>
+  </g>
+  <g fill="#d9c6a8" opacity=".25">
+    <path d="M215 553h235v4H215zM255 570h177v3H255zM516 550h200v4H516zM550 569h145v3H550z"/>
+  </g>
+  <path d="M42 625c83-18 148-17 216-2" fill="none" stroke="#d2b58e" stroke-width="4" opacity=".6"/>
+</svg>
